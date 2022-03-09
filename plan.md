@@ -45,8 +45,6 @@ We have decided to split the project in terms of the required functionality. We 
 - odds method
 - found method
 
-
-
 ## 4. Weekly Schedule
 - Monday
 - Tuesday - 9:00pm - 1hr
