@@ -46,10 +46,12 @@ We have decided to split the project in terms of the required functionality. We 
 - found method
 
 ## 4. Weekly Schedule
-- Monday
-- Tuesday - 9:00pm - 1hr
-- Wednesday
-- Thursday - 6:00pm - 2hr
-- Friday
-- Saturday
-- Sunday
+
+- Week of March 7 - Group organization, splitting work, preliminary individual research
+- Week of March 14 - Individual group member research 
+- Week of March 21 - Compiling individual research, Individual group member development
+- Week of March 28 - Integration of group member’s work, further development on the whole project
+- Week of April 4 - Further development, Testing
+- Week of April 11 - Practice for presentation, Testing, Code refactoring (cleanup)
+- Week of April 18 - Presentation
+
