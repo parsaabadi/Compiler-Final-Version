@@ -11,5 +11,8 @@ Daniel Nova, Andriy Yuzva, Parsa Abadi
 ### Andriy:
 
 ### Parsa:
+- Odds method
+- Found method
+
 
 ## 4. Weekly Schedule
