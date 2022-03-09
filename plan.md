@@ -22,14 +22,25 @@ found := ∃ i ∈ 0 .. N - 1 • a[i] = x    or    found := some i ∈ 0 .. N -
 ## 2. Resources
 
 ## 3. Division of work
+We have decided to split the project in terms of the required functionality. We will work on the fundamentals of array and set comprehension as a group. After establishing fundamentals, each group member will be assigned two methods to work on. Each group member's area of work will overlap with one another. 
 
-### Daniel:
+### All:
+- Array comprehension
+- Set comprehension
+- Presentations 
 
-### Andriy:
+### Daniel: 
+- sorted method
+- squares method 
 
-### Parsa:
-- Odds method
-- Found method
+### Andriy: 
+- squares method
+- odds method
+
+### Parsa: 
+- odds method
+- found method
+
 
 
 ## 4. Weekly Schedule
