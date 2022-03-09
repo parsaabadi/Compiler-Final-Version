@@ -1,4 +1,4 @@
-#Quantified Expressions - Group 11
+# Quantified Expressions - Group 11
 4TB3 Project - Daniel Nova, Andriy Yuzva, Parsa Abadi
 ## 1. Description
 	This project will focus on extending P0 language. Currently, P0 does not support quantified expressions, including array and set comprehensions. This project will also implement the extension in the P0 code generator. 
@@ -20,6 +20,10 @@ found := ∃ i ∈ 0 .. N - 1 • a[i] = x    or    found := some i ∈ 0 .. N -
 
 
 ## 2. Resources
+- Types and Programming Languages - Benjamin C. Pierce - 2002
+- David Gries and Fred B. Schneider: A Logical Approach to Discrete Math, Springer 1993
+- 4TB3 Course Notes, mainly Week 05 - Construction of a Parser and P0 definition 
+- Quantified Types in an Imperative Language - Dan Grossman - University of Washington
 
 ## 3. Division of work
 We have decided to split the project in terms of the required functionality. We will work on the fundamentals of array and set comprehension as a group. After establishing fundamentals, each group member will be assigned two methods to work on. Each group member's area of work will overlap with one another. 
@@ -44,3 +48,10 @@ We have decided to split the project in terms of the required functionality. We 
 
 
 ## 4. Weekly Schedule
+- Monday
+- Tuesday - 9:00pm - 1hr
+- Wednesday
+- Thursday - 6:00pm - 2hr
+- Friday
+- Saturday
+- Sunday
