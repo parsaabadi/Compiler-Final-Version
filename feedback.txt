@@ -1,1 +1,22 @@
-Project Plan 2/4: The resoures should have included some on the target language, which would be WebAssembly. The division of work as weekly schedule is not reasonable, it should have been who does extensions to scanning, to parsing & type checking, code generation. The proposal should have included the grammar extensions, as that define the scope. In the example given, "sorted" is meant to be a boolean variable, "odds" is meant to be set variable, "squares" is meant to be an array of integers, so division according to sorted, squares, odd methods does not work
+Project Plan 2/4: The resoures should have included some on the target language, which would be WebAssembly. 
+The division of work as weekly schedule is not reasonable, it should have been who does extensions to scanning, 
+to parsing & type checking, code generation. 
+
+The proposal should have included the grammar extensions, as that define the scope.
+ In the example given, "sorted" is meant to be a boolean variable, "odds" is meant to be set variable, 
+ "squares" is meant to be an array of integers, so division according to sorted, squares, odd methods does not work
+
+
+-Somebody needs to focus extending WebAssembly compilation.
+
+Who does what, scanning, parsing & type checking, code gen
+
+sorted is a boolean varaible
+
+support - all, and V
+
+squares  = array of integers so we need to extend [ ]
+
+odds - set variable, extend {}
+
+\E - some
