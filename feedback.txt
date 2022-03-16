@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Plan 2/4: The resoures should have included some on the target language, which would be WebAssembly. 
 The division of work as weekly schedule is not reasonable, it should have been who does extensions to scanning, 
 to parsing & type checking, code generation. 
@@ -20,3 +21,11 @@ squares  = array of integers so we need to extend [ ]
 odds - set variable, extend {}
 
 \E - some
+=======
+Project Plan 2/4: The resoures should have included some on the target language, which would be WebAssembly.
+ The division of work as weekly schedule is not reasonable, it should have been who does extensions to scanning,
+ to parsing & type checking, code generation. The proposal should have included the grammar extensions,
+ as that define the scope.
+  In the example given, "sorted" is meant to be a boolean variable, "odds" is meant to be set variable, "squares" is
+  meant to be an array of integers, so division according to sorted, squares, odd methods does not work
+>>>>>>> fd092eeee46a33224e5be75b772275df6315e849
