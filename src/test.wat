@@ -39,7 +39,7 @@ i32.le_s
 if
 i32.get $i
 i32.const 0
-sub
+i32.sub
 i32.cosnt 4
 i32.mul
 local.get $i_array
@@ -48,6 +48,10 @@ local.get $i
 local.get $i
 i32.mul
 i32.store
+local.get $i
+i32.const 1
+i32.add
+local.set $i
 br $i_loop
 end
 end
