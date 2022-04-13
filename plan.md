@@ -1,7 +1,7 @@
 # Quantified Expressions - Group 11
 4TB3 Project - Daniel Nova, Andriy Yuzva, Parsa Abadi
 ## 1. Description
-	This project will focus on extending P0 language. Currently, P0 does not support quantified expressions, including array and set comprehensions. This project will also implement the extension in the P0 code generator. 
+	This project will focus on extending P0 language. Currently, P0 does not support quantified expressions currently, including array and set comprehensions. This project will also implement the extension in the P0 code generator. Extensions implemented consist of universal quantifier, existential quantifier, array builder, and set builder.
 
 In order to test this, we will be adding onto the already existing P0ParsingTest and P0TypeCheckingTest. The tests we create will follow the same format and will check for edge cases. This will cover the array and set comprehension, as well as the new methods being created for them.
 
