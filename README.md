@@ -1,11 +1,10 @@
-
 # Quantified Expressions in P0
 
 By Daniel Nova, Andriy Yuzva and Parsa Abadi
 
 ## What is this?
 
-For our compilers course, our group modified a pre-existing P0 Compiler to allow for quantified expressions to be written.
+For our compilers course, our group modified a pre-existing P0 Compiler to allow for quantified expressions to be written. Files used to accomplish this task are located in the src folder which contains all respective files that were modified and required to extend the original P0 compiler.
 
 Examples:
 
